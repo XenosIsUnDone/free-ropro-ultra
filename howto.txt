@@ -1,5 +1,5 @@
 download the extension zip and extract into your downloads folder.
 on any chromium browser go to extensions.
-turn on developer mode and select "load unpacked".
+make sure to turn on developer mode then click "load unpacked".
 select the folder you extracted and make sure it shows up as a new extension.
 refresh roblox and enjoy free ultra.
