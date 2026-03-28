@@ -1,6 +1,6 @@
 # free-ropro-ultra
 
--gives you free ultra tier in ropro.
+-gives you free ultra tier in ropro version 1.7.1.
 
 -all associated features involving trading panel and sandbox and best server connection work.
 
@@ -9,7 +9,7 @@
 
 
 dm me on discord @rui.k if anything breaks or gets patched.
-(version 1.7.1)
+
 
 ![App Screenshot](https://github.com/XenosIsUnDone/free-ropro-ultra/blob/main/images/Screenshot%20(863).png)
 
